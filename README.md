@@ -39,7 +39,3 @@ python PHPScraper.py
 3. The script will display the PHP files found on the website.
 
 4. Choose whether to save the list of PHP files to a text file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
